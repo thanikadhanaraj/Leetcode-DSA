@@ -1,23 +1,32 @@
-# Solution class
 class Solution:
-    # Function to move all zeroes to end
-    def moveZeroes(self, arr):
-        # Create temp array
-        temp = [0] * len(arr)
+    # Function to move zeroes to the end
+    def moveZeroes(self, nums):
+        # Pointer to the first zero
+        j = -1
 
-        # Pointer to fill temp
-        index = 0
+        # Find the first zero
+        for i in range(len(nums)):
+            if nums[i] == 0:
+                j = i
+                break
 
-        # Traverse input array
-        for num in arr:
-            # If non-zero, copy to temp
-            if num != 0:
-                temp[index] = num
-                index += 1
+        # If no zero found, return
+        if j == -1:
+            return
 
-         #Copy temp back to original
-        for i in range(len(arr)):
-            arr[i] = temp[i]
+        # Start from the next index of first zero
+        for i in range(j + 1, len(nums)):
+            # If current element is non-zero
+            if nums[i] != 0:
+                # Swap with nums[j]
+                nums[i], nums[j] = nums[j], nums[i]
+                # Move j to next zero
+                j += 1
 
-        # Return updated array
-        return arr
+# Driver code
+sol = Solution()
+nums = [0, 1, 0, 3, 12]
+sol.moveZeroes(nums)
+
+# Print the result
+print(" ".join(map(str, nums)))
