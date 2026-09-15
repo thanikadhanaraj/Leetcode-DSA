@@ -33,4 +33,12 @@
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/3024-type-of-triangle) |
+## String
+|  |
+| ------- |
+| [0132-palindrome-partitioning-ii](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0132-palindrome-partitioning-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0132-palindrome-partitioning-ii](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0132-palindrome-partitioning-ii) |
 <!---LeetCode Topics End-->
