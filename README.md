@@ -16,6 +16,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0283-move-zeroes) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3024-type-of-triangle](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/3024-type-of-triangle) |
@@ -28,6 +29,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [3024-type-of-triangle](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/3024-type-of-triangle) |
 ## Polygons
 |  |
@@ -41,4 +43,8 @@
 |  |
 | ------- |
 | [0132-palindrome-partitioning-ii](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0132-palindrome-partitioning-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
