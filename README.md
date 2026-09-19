@@ -17,6 +17,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0079-word-search](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0079-word-search) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0217-contains-duplicate) |
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0283-move-zeroes) |
 ## Sorting
