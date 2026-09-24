@@ -9,6 +9,6 @@ class Solution:
         for i in range(n-k):
             window_sum=window_sum-nums[i]+nums[i+k]
             max_sum=max(window_sum,max_sum)
-        max_avg=float(max_sum/k)
+        max_avg=max_sum/k
         return max_avg
         
