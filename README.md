@@ -24,6 +24,7 @@
 | [0283-move-zeroes](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0455-assign-cookies) |
 | [0643-maximum-average-subarray-i](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0860-lemonade-change](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0860-lemonade-change) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -109,6 +110,7 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0860-lemonade-change) |
 ## Quicksort
 |  |
 | ------- |
