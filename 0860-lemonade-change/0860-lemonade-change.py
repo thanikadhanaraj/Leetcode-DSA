@@ -12,29 +12,19 @@ class Solution:
             elif i == 10:
                 if five == 0:
                     return False
-                else:
-                    ten += 1
-                    five -= 1
+
+                five -= 1
+                ten += 1
 
             elif i == 20:
-                if ten == 0:
-                    if five == 0:
-                        return False
-                    elif five >= 3:
-                        five -= 3
-                    else:
-                        return False
+                if ten >= 1 and five >= 1:
+                    ten -= 1
+                    five -= 1
 
-                elif ten >= 1:
-                    if five >= 1:
-                        ten -= 1
-                        five -= 1
-                    else:
-                        return False
+                elif five >= 3:
+                    five -= 3
+
+                else:
+                    return False
 
         return True
-            
-       
-          
-            
-        
