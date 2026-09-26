@@ -55,6 +55,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0079-word-search](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0079-word-search) |
 | [0132-palindrome-partitioning-ii](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0132-palindrome-partitioning-ii) |
 ## Dynamic Programming
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 ## Enumeration
 |  |
@@ -106,6 +108,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
