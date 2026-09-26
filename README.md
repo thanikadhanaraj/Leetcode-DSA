@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0204-count-primes) |
@@ -11,6 +12,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0050-powx-n) |
 ## Array
 |  |
@@ -99,6 +101,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Sliding Window
 |  |
