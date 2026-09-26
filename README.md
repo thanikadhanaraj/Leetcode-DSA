@@ -15,6 +15,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0079-word-search](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -61,6 +62,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 ## Enumeration
 |  |
