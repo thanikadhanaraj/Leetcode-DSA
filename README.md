@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0204-count-primes) |
@@ -21,6 +22,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0189-rotate-array) |
@@ -103,6 +105,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0079-word-search) |
 ## Linked List
 |  |
