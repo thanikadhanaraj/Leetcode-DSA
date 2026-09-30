@@ -7,6 +7,7 @@
 | [0002-add-two-numbers](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0050-powx-n) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0204-count-primes) |
 | [3024-type-of-triangle](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/3024-type-of-triangle) |
@@ -25,6 +26,7 @@
 | [0048-rotate-image](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0217-contains-duplicate) |
@@ -141,4 +143,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
+## Stack
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
