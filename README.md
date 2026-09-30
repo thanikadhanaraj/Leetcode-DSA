@@ -42,6 +42,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -64,11 +65,13 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0079-word-search](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0079-word-search) |
 | [0132-palindrome-partitioning-ii](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0132-palindrome-partitioning-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0132-palindrome-partitioning-ii](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0132-palindrome-partitioning-ii) |
 ## Hash Table
 |  |
@@ -147,4 +150,8 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
