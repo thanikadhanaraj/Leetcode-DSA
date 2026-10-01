@@ -27,6 +27,7 @@
 | [0056-merge-intervals](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0056-merge-intervals) |
 | [0079-word-search](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0204-count-primes) |
@@ -48,6 +49,7 @@
 | [0015-3sum](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0455-assign-cookies) |
@@ -56,6 +58,7 @@
 | ------- |
 | [0015-3sum](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0455-assign-cookies) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
