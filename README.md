@@ -33,6 +33,7 @@
 | [0217-contains-duplicate](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0455-assign-cookies) |
+| [0493-reverse-pairs](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0493-reverse-pairs) |
 | [0643-maximum-average-subarray-i](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0860-lemonade-change](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0860-lemonade-change) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -146,10 +147,12 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0493-reverse-pairs](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0493-reverse-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0493-reverse-pairs](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0493-reverse-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -158,4 +161,24 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0005-longest-palindromic-substring) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
