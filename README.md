@@ -28,6 +28,7 @@
 | [0079-word-search](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0189-rotate-array) |
@@ -80,6 +81,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0005-longest-palindromic-substring) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0132-palindrome-partitioning-ii](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0132-palindrome-partitioning-ii) |
 ## Hash Table
 |  |
@@ -139,6 +141,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0860-lemonade-change) |
