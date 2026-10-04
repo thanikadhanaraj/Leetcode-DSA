@@ -81,6 +81,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0005-longest-palindromic-substring) |
+| [0095-unique-binary-search-trees-ii](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0132-palindrome-partitioning-ii](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0132-palindrome-partitioning-ii) |
 ## Hash Table
@@ -113,6 +114,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0079-word-search) |
+| [0095-unique-binary-search-trees-ii](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0095-unique-binary-search-trees-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -189,4 +191,16 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0493-reverse-pairs) |
+## Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
