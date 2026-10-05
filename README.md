@@ -25,6 +25,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
@@ -50,6 +51,7 @@
 | [0005-longest-palindromic-substring](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0189-rotate-array) |
@@ -60,6 +62,7 @@
 | ------- |
 | [0015-3sum](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0455-assign-cookies) |
@@ -155,6 +158,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0455-assign-cookies) |
 ## Binary Search
 |  |
@@ -212,4 +216,8 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0100-same-tree) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
