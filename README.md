@@ -75,12 +75,14 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0058-length-of-last-word](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0058-length-of-last-word) |
+| [0072-edit-distance](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0079-word-search) |
 | [0132-palindrome-partitioning-ii](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0132-palindrome-partitioning-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0005-longest-palindromic-substring) |
+| [0072-edit-distance](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0072-edit-distance) |
 | [0095-unique-binary-search-trees-ii](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0132-palindrome-partitioning-ii](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0132-palindrome-partitioning-ii) |
