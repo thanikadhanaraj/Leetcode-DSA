@@ -84,6 +84,7 @@
 | [0058-length-of-last-word](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0079-word-search) |
+| [0093-restore-ip-addresses](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0093-restore-ip-addresses) |
 | [0132-palindrome-partitioning-ii](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0132-palindrome-partitioning-ii) |
 ## Dynamic Programming
 |  |
@@ -124,6 +125,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0079-word-search) |
+| [0093-restore-ip-addresses](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0095-unique-binary-search-trees-ii) |
 ## Depth-First Search
 |  |
