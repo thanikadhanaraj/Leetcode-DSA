@@ -135,6 +135,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0079-word-search) |
+| [0099-recover-binary-search-tree](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0100-same-tree) |
 ## Matrix
 |  |
@@ -215,15 +216,18 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0095-unique-binary-search-trees-ii) |
+| [0099-recover-binary-search-tree](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0100-same-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0095-unique-binary-search-trees-ii) |
+| [0099-recover-binary-search-tree](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0099-recover-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0095-unique-binary-search-trees-ii) |
+| [0099-recover-binary-search-tree](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0100-same-tree) |
 ## Breadth-First Search
 |  |
