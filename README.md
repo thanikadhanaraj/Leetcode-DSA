@@ -137,6 +137,7 @@
 | [0079-word-search](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0079-word-search) |
 | [0099-recover-binary-search-tree](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0100-same-tree) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -148,6 +149,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -218,6 +220,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0099-recover-binary-search-tree](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0100-same-tree) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -229,10 +232,12 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0099-recover-binary-search-tree](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0100-same-tree) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0100-same-tree) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Bubble Sort
 |  |
 | ------- |
