@@ -27,6 +27,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0063-unique-paths-ii) |
@@ -128,6 +129,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0095-unique-binary-search-trees-ii) |
