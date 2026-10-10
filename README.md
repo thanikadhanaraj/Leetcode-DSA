@@ -8,6 +8,7 @@
 | [0048-rotate-image](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0060-permutation-sequence) |
+| [0066-plus-one](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0204-count-primes) |
@@ -31,6 +32,7 @@
 | [0048-rotate-image](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0063-unique-paths-ii) |
+| [0066-plus-one](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
