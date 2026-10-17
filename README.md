@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0002-add-two-numbers) |
+| [0044-wildcard-matching](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0060-permutation-sequence) |
 ## Array
@@ -90,6 +91,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0044-wildcard-matching](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0079-word-search) |
@@ -99,6 +101,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0005-longest-palindromic-substring) |
+| [0044-wildcard-matching](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0044-wildcard-matching) |
 | [0063-unique-paths-ii](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0072-edit-distance) |
 | [0095-unique-binary-search-trees-ii](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0095-unique-binary-search-trees-ii) |
@@ -176,6 +179,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0455-assign-cookies) |
