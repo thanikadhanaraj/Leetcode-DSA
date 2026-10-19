@@ -9,6 +9,7 @@
 | [0050-powx-n](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0066-plus-one) |
+| [0089-gray-code](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0204-count-primes) |
@@ -144,6 +145,7 @@
 | [0046-permutations](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0095-unique-binary-search-trees-ii) |
 ## Depth-First Search
@@ -267,4 +269,8 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0051-n-queens) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/thanikadhanaraj/Leetcode-DSA/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
